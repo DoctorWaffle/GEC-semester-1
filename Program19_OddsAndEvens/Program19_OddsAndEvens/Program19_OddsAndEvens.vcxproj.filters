@@ -15,7 +15,7 @@
     </Filter>
   </ItemGroup>
   <ItemGroup>
-    <ClCompile Include="Program15_StarryOutput.cpp">
+    <ClCompile Include="Program19_OddsAndEvens.cpp">
       <Filter>Source Files</Filter>
     </ClCompile>
   </ItemGroup>

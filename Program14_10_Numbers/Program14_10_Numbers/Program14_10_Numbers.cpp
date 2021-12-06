@@ -1,4 +1,5 @@
 #include <iostream>
+
 using namespace std;
 int main()
 {
@@ -15,6 +16,7 @@ int main()
 
 	float i = 3;
 	int num3 = 1;
+	int oldnum;
 	
 	while (num3 != 0)
 	{
@@ -26,8 +28,12 @@ int main()
 			float mean = sum / i;
 			cout << "the sum of all numbers is " << sum << " and the mean is " << mean << endl;
 			i = i + 1;
+			oldnum = num3;
 		}
 	}
-	cout << "I apologise but i cannot accept a number of 0" << endl;
+
+		cout << "I apologise but i cannot accept a number of 0" << endl;
+
 	return 0;
+	
 }

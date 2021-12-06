@@ -21,7 +21,7 @@
   <PropertyGroup Label="Globals">
     <VCProjectVersion>16.0</VCProjectVersion>
     <Keyword>Win32Proj</Keyword>
-    <ProjectGuid>{22f0483d-a2e3-4aae-bd7a-91ec8c57ca78}</ProjectGuid>
+    <ProjectGuid>{91249b1b-ddfd-4d82-8cd7-1d984b7191ae}</ProjectGuid>
     <RootNamespace>Program15StarryOutput</RootNamespace>
     <WindowsTargetPlatformVersion>10.0</WindowsTargetPlatformVersion>
   </PropertyGroup>
@@ -139,7 +139,7 @@
     </Link>
   </ItemDefinitionGroup>
   <ItemGroup>
-    <ClCompile Include="Program15_StarryOutput.cpp" />
+    <ClCompile Include="Program15_Starry_Output.cpp" />
   </ItemGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.targets" />
   <ImportGroup Label="ExtensionTargets">
