@@ -21,8 +21,8 @@
   <PropertyGroup Label="Globals">
     <VCProjectVersion>16.0</VCProjectVersion>
     <Keyword>Win32Proj</Keyword>
-    <ProjectGuid>{99fb7700-844b-4ea0-984b-c8196b5eea42}</ProjectGuid>
-    <RootNamespace>Program25Initials</RootNamespace>
+    <ProjectGuid>{dca3cf6e-aa4f-4458-9df3-664113495d71}</ProjectGuid>
+    <RootNamespace>Program26ReplacingCharacters</RootNamespace>
     <WindowsTargetPlatformVersion>10.0</WindowsTargetPlatformVersion>
   </PropertyGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.Default.props" />
@@ -139,7 +139,7 @@
     </Link>
   </ItemDefinitionGroup>
   <ItemGroup>
-    <ClCompile Include="Program25_Initials.cpp" />
+    <ClCompile Include="Program26_ReplacingCharacters.cpp" />
   </ItemGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.targets" />
   <ImportGroup Label="ExtensionTargets">
